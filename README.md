@@ -28,7 +28,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Top Featured Projects 
 
 **Automated Purchase Order System**  
 Hybrid **Node.js + Python** platform that automates supplier POs for 5,000+ SKUs.  
