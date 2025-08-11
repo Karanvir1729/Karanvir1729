@@ -7,12 +7,9 @@
 
 ---
 
-## 🌐 Connect
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karan-khanna-b7013b24b) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@prokaranvir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prokaranvir@gmail.com) 
 
-[LinkedIn](https://linkedin.com/in/karan-khanna-b7013b24b) •
-[GitHub](https://github.com/Karanvir1729) •
-[Portfolio](https://karan-portfolio.vercel.app) [Needs Update]•
-[Email](mailto:prokaranvir@gmail.com)
 ---
 
 ## 🧠 Skills
