@@ -1,9 +1,5 @@
-# 👋 Hey, I’m Karanvir (Karan) Khanna
-
-🎓 **B.Sc. Computer Science, Minor in Math + Co-op** at University of Toronto, Class of 2026  
-💼 **E‑commerce Software Developer at IPPINKA** • Former **AI Applications Engineer at KPMG**  
-🛠️ I build automation pipelines, solver‑backed forecasting, and scalable backend systems.  
-🏆 **CDMP Top 10%**, **Dean’s List**, **Hackathon wins** (UofT Hacks runner‑up, Deer Hacks winner)
+# 💫 About Me:
+Hey, I’m Karanvir — people call me Karan.<br>🔭 I currently build forecasting engines, solver-backed automation, and backend infra at IPPINKA to scale Amazon operations and decision systems.<br>👯 I love collaborating on AI-powered tools, optimization models, and systems that turn chaos into clean, automated pipelines.<br>🤝 Always open to learning from folks crushing high-performance compute and scalable model serving.<br>🌱 Deep-diving into NLP, observability stacks, and systems engineering at scale.<br>💬 Ask me about PO automation, Pyomo+CPLEX solvers, caching APIs, or hacking productivity with Google Apps Script.<br>⚡ Fun fact: I once stitched Node.js, Pyomo, and Conda into a live solver pipeline—because why not push the edge of what’s possible?
 
 ---
 
