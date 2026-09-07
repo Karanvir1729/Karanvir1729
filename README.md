@@ -1,6 +1,6 @@
 # Karanvir (Karan) Khanna
 
-**Co-founder and founding engineer at [Daybot](https://daybotai.com)** · University of Toronto, Computer Science 2026 · Toronto, Canada
+**Co-founder and CEO at [Daybot](https://daybotai.com)** · University of Toronto, Computer Science 2026 · Toronto, Canada
 
 I build products end to end: backend and distributed systems, applied ML, mathematical optimization, and the iOS apps on top of them.
 
