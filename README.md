@@ -1,59 +1,60 @@
-# 💫 About Me:
-Hey, I’m Karanvir — people call me Karan.<br>🔭 I currently build forecasting engines, solver-backed automation, and backend infra at IPPINKA to scale Amazon operations and decision systems.<br>👯 I love collaborating on AI-powered tools, optimization models, and systems that turn chaos into clean, automated pipelines.<br>🤝 Always open to learning from folks crushing high-performance compute and scalable model serving.<br>🌱 Deep-diving into NLP, observability stacks, and systems engineering at scale.<br>💬 Ask me about PO automation, Pyomo+CPLEX solvers, caching APIs, or hacking productivity with Google Apps Script.<br>⚡ Fun fact: I once stitched Node.js, Pyomo, and Conda into a live solver pipeline—because why not push the edge of what’s possible?
+# Karanvir (Karan) Khanna
+
+**Co-founder and founding engineer at [Daybot](https://daybotai.com)** · University of Toronto, Computer Science 2026 · Toronto, Canada
+
+I build products end to end: backend and distributed systems, applied ML, mathematical optimization, and the iOS apps on top of them.
+
+[![Website](https://img.shields.io/badge/kkaranvir.me-000000?logo=vercel&logoColor=white)](https://kkaranvir.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karanvir-khanna-b7013b24b/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@prokaranvir)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?logo=devpost&logoColor=white)](https://devpost.com/prokaranvir)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karanvir.khanna@mail.utoronto.ca)
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karan-khanna-b7013b24b) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@prokaranvir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prokaranvir@gmail.com) 
+## What I am building
+
+**[Daybot](https://daybotai.com)** turns a described niche into a live, checkout ready store: supplier backed catalog, Stripe checkout, SEO pages, customer accounts, custom domains, orders and payouts.
+
+- 124 users launched **154 stores** in the first two months, with over **US$7K in revenue** to date, all organic with no paid acquisition.
+- FastAPI on Vercel over Cloudflare D1, a Vite and React SPA, and one Expo codebase shipping both iOS and Android.
+- A multi model router fans one prompt out to several LLM providers in parallel and keeps the first schema valid JSON response.
+- Reviewed on YouTube by Franklin AI: [I Typed One Word Into This AI and It Built the Entire Store](https://www.youtube.com/watch?v=fQz_HzrgJtA).
+
+## Shipped
+
+| Project | What it is |
+| --- | --- |
+| [Daybot](https://apps.apple.com/us/app/daybot/id6795830062) | AI store builder, live on the iOS App Store and at [daybotai.com](https://daybotai.com) |
+| [Ninja Knife Dodge](https://apps.apple.com/us/app/ninja-knife-dodge/id6739188629) | Four game offline arcade built in Godot 4, live on the App Store ([repo](https://github.com/Karanvir1729/ninja-knife-dodge)) |
+| [RacquetAI / RacketIQ](https://github.com/Karanvir1729/RacquetAI) | AI scoring and video analysis for racquet sports. Club pilot converted 10 paid subscriptions at 97.9% player identification accuracy |
+| [Tarazoo](https://tarazoo.shop) | Hack the North 2025 winner, Shopify challenge. Forecasting plus SCIP purchase order optimization for merchants |
+| [Codexa Voice](https://github.com/Karanvir1729/codexa) | Voice first coding agent workbench. Its phone supervisor orchestrated roughly 2,400 agent sessions in one week ([demo](https://www.youtube.com/watch?v=5LBfo_Mt4WA)) |
+| [Python to Java Translator](https://github.com/Karanvir1729/Python-to-Java-Code-Translator) | Fine tuned CodeT5 and PLBART, 78% compilation rate on translated output |
+| [ML Boilerplates](https://github.com/Karanvir1729/ML_boilerPlates) | 24+ model implementations with consistent training and evaluation loops |
+| [Matroid Research](https://github.com/Karanvir1729/MatriodResearch) | Polytope volume estimation under Prof. Ahmed Ashraf |
+
+## Previously
+
+- **IPPINKA**, Machine Learning Engineer and E-Commerce Architect (2024 to 2025). Event driven inventory and order sync on GCP across 5,000+ SKUs, demand forecasting that lifted inventory turnover 23%, and a Pyomo purchase order optimizer over SCIP and CPLEX.
+- **KPMG**, AI/ML Engineer, Data Governance (2023). LLM assistants that cut manual compliance review 60%, PII detection architectures on GCP and Azure, and the firm's Data Governance Playbook.
+
+## Tools
+
+**Languages** Python, TypeScript, Swift, SQL, C/C++, Java, Go, GDScript, Bash
+**ML and AI** PyTorch, Hugging Face, scikit-learn, XGBoost, Prophet, OpenCV, RAG and embeddings, LLM APIs
+**Backend** FastAPI, Flask, Node, REST and WebSockets, PostgreSQL, Cloudflare D1, Redis, Cassandra, BigQuery
+**Frontend and mobile** React, Vite, Tailwind, Expo and React Native, SwiftUI, Godot 4
+**Cloud** GCP, AWS, Azure, Vercel, Cloudflare, Docker, Kubernetes, Terraform, GitHub Actions
+**Optimization** SCIP, CPLEX, Gurobi, Pyomo, MILP and MINLP
+**Agentic development** Claude Code, Codex CLI, MCP servers, multi agent orchestration
+
+## Recognition
+
+Hack the North 2025 winner (Shopify challenge) · Entrepreneur First Selection Day, San Francisco 2026 · Y Combinator founder dinner invite 2025 · Halton Game Jam 2025 winner · UofT Hacks 2023 runner up · DeerHacks 2022 winner · Dean's List 2021 to 2026 · DAMA CDMP Associate
 
 ---
 
-## 🧠 Skills
-
-**Languages**: Java, Python, C/C++, JavaScript, TypeScript, Bash, SQL, PHP, Assembly (x86)  
-**Frameworks and Tools**: Node.js, Flask, Django, TensorFlow, PyTorch, scikit‑learn, pandas, NumPy, Selenium, JUnit, LaTeX, Pyomo, SCIP, CPLEX  
-**Optimization**: MINLP, nonlinear solvers, multistage model design  
-**Infrastructure and DevOps**: NGINX, Docker, DigitalOcean, MongoDB, Conda, Ubuntu, WordPress, GitHub Actions, CI/CD  
-**Cloud and APIs**: AWS, Azure, GCP, OpenAI API, Google Apps Script, Amazon Rainforest API  
-**Security**: CAPTCHA, SQLmap, Ghidra, Burp Suite, Wireshark, WPScan  
-**Data Governance**: Microsoft Purview, DAMA DMBOK  
-**Data Quality and MDM**: Profiling, validation, deduplication, Golden Record creation, Informatica
-
----
-
-## 🚀 Top Featured Projects 
-
-**Automated Purchase Order System**  
-Hybrid **Node.js + Python** platform that automates supplier POs for 5,000+ SKUs.  
-Pyomo with **SCIP/CPLEX** for nonlinear MINLP, spreadsheet‑driven UI, cache‑backed refresh, PDF invoice generation.
-
-**Nettoyer — UofT Hacks runner‑up**  
-Decentralization‑focused content filtering using **Cohere**, **Python**, **Flutter**. Real‑time toxicity detection and safe theme tagging.
-
-**Essay Research Bot — Deer Hacks winner**  
-Automated academic research tool using **Python**, **Flask**, **UiPath**. Google APIs, scraping, and auto‑citation.
-
----
-
-## 🏅 Achievements and Certifications
-
-- **CDMP** Certified Data Management Professional, top 10 percent globally  
-- **Dean’s List**, University of Toronto, GPA above 3.5  
-- **Research** in matroid theory and polytope volume estimation under Prof. Ahmed Ashraf
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Karanvir1729&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Karanvir1729&limit=5&theme=merko&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Karanvir1729&icon=2&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
+<p align="center">
+  <a href="https://kkaranvir.me"><b>kkaranvir.me</b></a> is my portfolio, built as an interactive desktop.
+</p>
