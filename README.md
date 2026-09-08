@@ -1,6 +1,6 @@
 # Karanvir (Karan) Khanna
 
-**Co-founder and CEO at [Daybot](https://daybotai.com)** · University of Toronto, Computer Science 2026 · Toronto, Canada
+**Co-founder and CEO at Daybot Solutions** · University of Toronto, Computer Science 2026 · Toronto, Canada
 
 I build products end to end: backend and distributed systems, applied ML, mathematical optimization, and the iOS apps on top of them.
 
@@ -14,6 +14,8 @@ I build products end to end: backend and distributed systems, applied ML, mathem
 
 ## What I am building
 
+Daybot Solutions runs two products with paying customers.
+
 **[Daybot](https://daybotai.com)** turns a described niche into a live, checkout ready store: supplier backed catalog, Stripe checkout, SEO pages, customer accounts, custom domains, orders and payouts.
 
 - 124 users launched **154 stores** in the first two months, with over **US$7K in revenue** to date, all organic with no paid acquisition.
@@ -21,13 +23,17 @@ I build products end to end: backend and distributed systems, applied ML, mathem
 - A multi model router fans one prompt out to several LLM providers in parallel and keeps the first schema valid JSON response.
 - Reviewed on YouTube by Franklin AI: [I Typed One Word Into This AI and It Built the Entire Store](https://www.youtube.com/watch?v=fQz_HzrgJtA).
 
+**[RacketIQ](https://racketiq.tech)** is AI match analysis for racquet sports.
+
+- Nothing to TestFlight in **9 days**, and a squash club pilot converted **10 paid subscriptions**.
+- **97.9% player identification accuracy** on 379 hand labelled samples; the scorer is ported to Swift so a phone referees a live match with no server.
+
 ## Shipped
 
 | Project | What it is |
 | --- | --- |
 | [Daybot](https://apps.apple.com/us/app/daybot/id6795830062) | AI store builder, live on the iOS App Store and at [daybotai.com](https://daybotai.com) |
 | [Ninja Knife Dodge](https://apps.apple.com/us/app/ninja-knife-dodge/id6739188629) | Four game offline arcade built in Godot 4, live on the App Store ([repo](https://github.com/Karanvir1729/ninja-knife-dodge)) |
-| [RacquetAI / RacketIQ](https://github.com/Karanvir1729/RacquetAI) | AI scoring and video analysis for racquet sports. Club pilot converted 10 paid subscriptions at 97.9% player identification accuracy |
 | [Tarazoo](https://tarazoo.shop) | Hack the North 2025 winner, Shopify challenge. Forecasting plus SCIP purchase order optimization for merchants |
 | [Codexa Voice](https://github.com/Karanvir1729/codexa) | Voice first coding agent workbench. Its phone supervisor orchestrated roughly 2,400 agent sessions in one week ([demo](https://www.youtube.com/watch?v=5LBfo_Mt4WA)) |
 | [Python to Java Translator](https://github.com/Karanvir1729/Python-to-Java-Code-Translator) | Fine tuned CodeT5 and PLBART, 78% compilation rate on translated output |
